@@ -10,7 +10,7 @@ synflood.py | SYN Flood Attack.
 multi.py | Multiple IP Multiple Port Attack.
 
 ## Installation:
-* git clone https://github.com/Anonymouz-cmd/ScapyDoS.git
+* git clone https://github.com/CyberCommands/ScapyDoS.git
 * cd ScapyDoS/
 * sudo pip instsll scapy
 * sudo python3 sisp.py
